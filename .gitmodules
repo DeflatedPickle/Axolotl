@@ -1,0 +1,12 @@
+[submodule "libs/speckle"]
+	path = libs/speckle
+	url = https://github.com/DeflatedPickle/speckle
+[submodule "libs/monoconskt"]
+	path = libs/monoconskt
+	url = https://github.com/DeflatedPickle/monoconskt
+[submodule "libs/undulation"]
+	path = libs/undulation
+	url = https://github.com/DeflatedPickle/undulation
+[submodule "libs/marvin"]
+	path = libs/marvin
+	url = https://github.com/DeflatedPickle/marvin
